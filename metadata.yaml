@@ -1,0 +1,42 @@
+_repo: Ehseg_72590
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ritoók, Emma
+    gutenberg_agent_id: '56738'
+    url: http://www.gutenberg.org/2009/agents/56738
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2024-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72590'
+language: hu
+pgterms:marc905: 20231212070425hamsun
+pgterms:marc906: '1928'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bNépszava-Könyvkereskedés, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Éhség
+url: http://www.gutenberg.org/ebooks/72590
